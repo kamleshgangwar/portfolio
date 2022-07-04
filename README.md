@@ -1,1 +1,64 @@
-# portfolio
+# portfolio<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> personsle portfolio website</title>
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+<body>
+    <div class="hero">
+        <nav>
+            <img src="picture.jpg" class="logo">
+
+                
+        
+
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">CONTACT ME</a></li>
+                
+                
+            </ul>
+        </nav>
+        </div>
+        <div class="detel">
+            <P> Hi there!</P>
+            <h1>I,M KAMLESH <span>KUMARI</span></h1>
+            <h2><p>I AM A Front-End Developer.<br>
+                   This is my official portfolio website to showes all
+            <br>details and work experience web Development.
+            </p></h2>
+              <br>
+              <br>
+            <h2> <p> Personal Info</p></h2><br>
+            <h3><p>Mahatma Jyotiba Phule Rohilkhand <span> university</span>,IET Bareilly Uttrapradesh, India. </p></h3>
+            <p>Purshing B.TECH From Mjpru , Bareilly,uttrapresh.</p>
+            
+         
+
+            <a href="#"> DOWNLOAD CV</a>
+
+        </div>
+        <div class="cs">
+        <h1>CONTACT</h1>
+        </div>
+    <div class="contact">
+        
+        <ul>
+        <li> <img src="linkedin.png" style="width:40px; height:40px"><br>
+        <a href="https://www.linkedin.com/in/kamlesh-kumari-819639228"><u>linkedin</u> </a></li>
+    
+        <li><img src="instagram.png" style="width:40px; height:40px"><br>
+        <a href="https://www.instagram.com/accounts/login/?source=reset_password"> <u>instagram </u></a></li>
+        <li> <img src="gmail.png" style="width:40px; height:40px"><br>
+        <a href="https://mail.google.com/mail/u/0/#inbox"><u>E.Mail</u> </a></li>
+        </ul>
+    </div>
+    
+</body>
+</html>
